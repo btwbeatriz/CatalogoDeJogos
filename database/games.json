@@ -1,0 +1,122 @@
+[
+  {
+    "id" : 1,
+    "titulo" : "Stray",
+    "desenvolvedora" : "BlueTwelve Studio",
+    "distribuidora" : "Annapurna Interactive",
+    "idioma": "Português",
+    "numeroJogadores": "1",
+    "lancamento": "2022",
+    "genero":"SIMULADOR",
+    "requisitos" : {
+      "sistemaOperacional" : "Windows 10",
+      "processador":"Intel Core i5-2300 | AMD FX-6350",
+      "memoria":" 8GB",
+      "placaDeVideo":"NVIDIA GeForce GTX 650 Ti, 2 GB | AMD Radeon R7 360, 2 GB",
+      "armazenamento":"10GB"
+    }
+  },
+  {
+    "id" : 2,
+    "titulo" : "Hogwarts Legacy",
+    "desenvolvedora" : "Avalanche Software",
+    "distribuidora" : "Warner Bros. Games",
+    "idioma": "Português",
+    "numeroJogadores": "1",
+    "lancamento": "2023",
+    "genero":"AÇÃO",
+    "requisitos" : {
+      "sistemaOperacional" : "Windows 10",
+      "processador": "Intel Core i5-6600 | AMD Ryzen 5 1400",
+      "memoria": "16GB",
+      "placaDeVideo":"NVIDIA GeForce GTX 960 4GB | AMD Radeon RX 470 4GB",
+      "armazenamento":"85GB"
+    }
+  },
+  {
+    "id" : 3,
+    "titulo" : "The Sims™ 4",
+    "desenvolvedora" : "Maxis",
+    "distribuidora" : "Electronic Arts",
+    "idioma": "Português",
+    "numeroJogadores": "1",
+    "lancamento": "2014",
+    "genero":"SIMULADOR",
+    "requisitos" : {
+      "sistemaOperacional" : "Windows 10",
+      "processador": "Intel Core i3-3220 | AMD Ryzen 3 1200",
+      "memoria": "4GB",
+      "placaDeVideo":"NVIDIA GeForce 6600 | Radeon X1300 | Intel GMA X4500",
+      "armazenamento":"26GB"
+    }
+  },
+  {
+    "id" : 4,
+    "titulo" : "Grand Theft Auto V",
+    "desenvolvedora" : "Rockstar Games",
+    "distribuidora" : "Rockstar Games",
+    "idioma": "Português",
+    "numeroJogadores": "4",
+    "lancamento": "2020",
+    "genero":"AÇÃO",
+    "requisitos" : {
+      "sistemaOperacional" : "Windows 10",
+      "processador": "Intel Core i5 3470 | AMD X8 FX-8350",
+      "memoria": "4GB",
+      "placaDeVideo":"NVIDIA GTX 660 2GB | AMD HD7870 2GB",
+      "armazenamento":"90GB"
+    }
+  },
+  {
+    "id" : 5,
+    "titulo" : "VALORANT",
+    "desenvolvedora" : "Riot Games",
+    "distribuidora" : "Riot Games",
+    "idioma": "Português",
+    "numeroJogadores": "4",
+    "lancamento": "2020",
+    "genero":"TIRO",
+    "requisitos" : {
+      "sistemaOperacional" : "Windows 10",
+      "processador": "Intel i3-4150 | Ryzen 3 1200",
+      "memoria": "4GB",
+      "placaDeVideo":"GeForce GT 730 | Radeon R7 240",
+      "armazenamento":"10GB"
+    }
+  },
+  {
+    "id" : 6,
+    "titulo" : "Fortnite",
+    "desenvolvedora" : "Epic Games",
+    "distribuidora" : "Epic Games",
+    "idioma": "Português",
+    "numeroJogadores": "4",
+    "lancamento": "2017",
+    "genero":"AÇÃO",
+    "requisitos" : {
+      "sistemaOperacional" : "Windows 10",
+      "processador": "Intel Core i5-7300U",
+      "memoria": "8GB",
+      "placaDeVideo":"NVIDIA GTX 960 | AMD R9 280",
+      "armazenamento":"60GB"
+    }
+
+  },
+  {
+    "id" : 7,
+    "titulo" : "FIFA 23",
+    "desenvolvedora" : "EA Canada",
+    "distribuidora" : "Electronic Arts",
+    "idioma": "Português",
+    "numeroJogadores": "2",
+    "lancamento": "2022",
+    "genero":"ESPORTE",
+    "requisitos" : {
+      "sistemaOperacional" : "Windows 10",
+      "processador": "Intel Core i7 6700 | Ryzen 7 2700X",
+      "memoria": "12GB",
+      "placaDeVideo":"GeForce GTX 1660 | Radeon RX 5600 XT",
+      "armazenamento":"100GB"
+    }
+  }
+]
