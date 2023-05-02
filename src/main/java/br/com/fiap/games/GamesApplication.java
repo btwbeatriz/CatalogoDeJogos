@@ -1,14 +1,14 @@
-package br.com.fiap.catalogo;
+package br.com.fiap.games;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CatalogoDeJogosApplication {
+public class GamesApplication {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(CatalogoDeJogosApplication.class, args);
+		SpringApplication.run(GamesApplication.class, args);
 	}
 
 }

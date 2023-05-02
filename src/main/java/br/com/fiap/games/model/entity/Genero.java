@@ -1,4 +1,4 @@
-package br.com.fiap.catalogo.model.entity;
+package br.com.fiap.games.model.entity;
 
 public enum Genero {
     AÇÃO,

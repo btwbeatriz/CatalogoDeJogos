@@ -1,10 +1,10 @@
-package br.com.fiap.catalogo;
+package br.com.fiap.games;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CatalogoDeJogosApplicationTests {
+class GamesApplicationTests {
 
 	@Test
 	void contextLoads() {

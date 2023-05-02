@@ -1,6 +1,6 @@
-package br.com.fiap.catalogo.model;
+package br.com.fiap.games.model;
 
-import br.com.fiap.catalogo.model.entity.Jogo;
+import br.com.fiap.games.model.entity.Jogo;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

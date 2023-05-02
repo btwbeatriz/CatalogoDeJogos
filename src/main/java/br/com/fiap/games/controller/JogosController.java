@@ -1,10 +1,10 @@
-package br.com.fiap.catalogo.controller;
+package br.com.fiap.games.controller;
 
-import br.com.fiap.catalogo.model.JogosRepository;
-import br.com.fiap.catalogo.model.dto.DadosAtualizacaoJogo;
-import br.com.fiap.catalogo.model.dto.DadosCadastroJogo;
-import br.com.fiap.catalogo.model.dto.DadosListagemJogo;
-import br.com.fiap.catalogo.model.entity.Jogo;
+import br.com.fiap.games.model.JogosRepository;
+import br.com.fiap.games.model.dto.DadosAtualizacaoJogo;
+import br.com.fiap.games.model.dto.DadosCadastroJogo;
+import br.com.fiap.games.model.dto.DadosListagemJogo;
+import br.com.fiap.games.model.entity.Jogo;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

@@ -1,8 +1,8 @@
-package br.com.fiap.catalogo.model.dto;
+package br.com.fiap.games.model.dto;
 
 
-import br.com.fiap.catalogo.model.entity.Genero;
-import br.com.fiap.catalogo.model.entity.Jogo;
+import br.com.fiap.games.model.entity.Genero;
+import br.com.fiap.games.model.entity.Jogo;
 
 public record DadosListagemJogo(
         Long id,

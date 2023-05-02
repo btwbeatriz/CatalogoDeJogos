@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.fiap</groupId>
-	<artifactId>catalogo</artifactId>
+	<artifactId>Games</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>catalogo de jogos</name>
-	<description>Catalogo de Jogos</description>
+	<name>Games</name>
+	<description>Catalogo de Games</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

@@ -1,11 +1,11 @@
-package br.com.fiap.catalogo.model.entity;
+package br.com.fiap.games.model.entity;
 
-import br.com.fiap.catalogo.model.dto.DadosAtualizacaoJogo;
-import br.com.fiap.catalogo.model.dto.DadosCadastroJogo;
+import br.com.fiap.games.model.dto.DadosAtualizacaoJogo;
+import br.com.fiap.games.model.dto.DadosCadastroJogo;
 import jakarta.persistence.*;
 
 @Table(name = "jogos")
-@Entity(name = "Jogos")
+@Entity(name = "Jogo")
 public class Jogo {
 
     @Id

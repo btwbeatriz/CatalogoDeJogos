@@ -1,6 +1,6 @@
-package br.com.fiap.catalogo.model.entity;
+package br.com.fiap.games.model.entity;
 
-import br.com.fiap.catalogo.model.dto.DadosRequisitos;
+import br.com.fiap.games.model.dto.DadosRequisitos;
 import jakarta.persistence.Embeddable;
 import jakarta.validation.constraints.NotBlank;
 

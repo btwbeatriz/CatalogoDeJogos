@@ -1,4 +1,4 @@
-package br.com.fiap.catalogo.model.dto;
+package br.com.fiap.games.model.dto;
 
 import jakarta.validation.constraints.NotBlank;
 

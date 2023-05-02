@@ -1,6 +1,6 @@
-package br.com.fiap.catalogo.model.dto;
+package br.com.fiap.games.model.dto;
 
-import br.com.fiap.catalogo.model.entity.Genero;
+import br.com.fiap.games.model.entity.Genero;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
@@ -14,7 +14,8 @@ public record DadosCadastroJogo(
         String distribuidora,
         @NotBlank
         String idioma,
-        @NotBlank
+        @NotNull
+        @Pattern(regexp = "\\d{1,4}")
         String numeroJogadores,
         @NotBlank
         @Pattern(regexp = "\\d{4}")
