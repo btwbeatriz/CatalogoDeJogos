@@ -1,6 +1,5 @@
 [
   {
-    "id" : 1,
     "titulo" : "Stray",
     "desenvolvedora" : "BlueTwelve Studio",
     "distribuidora" : "Annapurna Interactive",
@@ -17,7 +16,7 @@
     }
   },
   {
-    "id" : 2,
+
     "titulo" : "Hogwarts Legacy",
     "desenvolvedora" : "Avalanche Software",
     "distribuidora" : "Warner Bros. Games",
@@ -34,7 +33,7 @@
     }
   },
   {
-    "id" : 3,
+
     "titulo" : "The Sims™ 4",
     "desenvolvedora" : "Maxis",
     "distribuidora" : "Electronic Arts",
@@ -51,7 +50,7 @@
     }
   },
   {
-    "id" : 4,
+
     "titulo" : "Grand Theft Auto V",
     "desenvolvedora" : "Rockstar Games",
     "distribuidora" : "Rockstar Games",
@@ -68,7 +67,7 @@
     }
   },
   {
-    "id" : 5,
+
     "titulo" : "VALORANT",
     "desenvolvedora" : "Riot Games",
     "distribuidora" : "Riot Games",
@@ -85,7 +84,7 @@
     }
   },
   {
-    "id" : 6,
+
     "titulo" : "Fortnite",
     "desenvolvedora" : "Epic Games",
     "distribuidora" : "Epic Games",
@@ -103,7 +102,7 @@
 
   },
   {
-    "id" : 7,
+
     "titulo" : "FIFA 23",
     "desenvolvedora" : "EA Canada",
     "distribuidora" : "Electronic Arts",
